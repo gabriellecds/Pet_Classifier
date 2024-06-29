@@ -4,18 +4,18 @@ This classifier is a simple example of machine learning made from scratch, from 
 The folder structure is simple: inside the training data folder, you need to create subfolders, with the exact names of how ML should classify the images, and likewise with the test data. In the case of this classifier, the structure was as follows: 
 
 __ Training data folder 
-  |__ Dog folder
-      |__ image1
-      |__ image2
-      |__ image...
-  |__ Cat folder
-      |__ image1
-      |__ image2
-      |__ image...
-  |__ Rabbit folder
-      |__ image1
-      |__ image2
-      |__ image...
+.  |__ Dog folder
+.      |__ image1
+.      |__ image2
+.      |__ image...
+.  |__ Cat folder
+.      |__ image1
+.      |__ image2
+.      |__ image...
+.  |__ Rabbit folder
+.      |__ image1
+.      |__ image2
+.      |__ image...
 
 Important reminder: the test data folder must have exactly the same structure and the subfolders must be named exactly the same as the training data subfolders. 
 
