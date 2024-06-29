@@ -5,17 +5,17 @@ The folder structure is simple: inside the training data folder, you need to cre
 
 *__ Training data folder 
 *  |__ Dog folder
-      |__ image1
-      |__ image2
-      |__ ...
+*      |__ image1
+       |__ image2
+       |__ ...
 *  |__ Cat folder
-      |__ image1
-      |__ image2
-      |__ ...
+*      |__ image1
+       |__ image2
+       |__ ...
 *  |__ Rabbit folder
-      |__ image1
-      |__ image2
-      |__ ...
+*      |__ image1
+       |__ image2
+       |__ ...
 
 Important reminder: the test data folder must have exactly the same structure and the subfolders must be named exactly the same as the training data subfolders. 
 
