@@ -3,7 +3,7 @@
 This classifier is a simple example of machine learning made from scratch, from the structure of the ML to the structure of the training and test data. 
 The folder structure is simple: inside the training data folder, you need to create subfolders, with the exact names of how ML should classify the images, and likewise with the test data. In the case of this classifier, the structure was as follows: 
 
-*__ Training data folder 
+__ Training data folder 
 *  |__ Dog folder
 *      |__ image1
        |__ image2
