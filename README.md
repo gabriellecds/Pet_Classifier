@@ -5,15 +5,15 @@ The folder structure is simple: inside the training data folder, you need to cre
 
 *__ Training data folder 
 *  |__ Dog folder
-*     |__ image1
+      |__ image1
       |__ image2
       |__ ...
 *  |__ Cat folder
-*     |__ image1
+      |__ image1
       |__ image2
       |__ ...
 *  |__ Rabbit folder
-*     |__ image1
+      |__ image1
       |__ image2
       |__ ...
 
