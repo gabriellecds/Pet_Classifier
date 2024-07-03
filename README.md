@@ -20,3 +20,5 @@ __ Training data folder
 Important reminder: the test data folder must have exactly the same structure and the subfolders must be named exactly the same as the training data subfolders. 
 
 Note: This classifier was fed 40 images of each animal for training data, and the test data was 4 images for each animal. The accuracy reached 66.67%, and to increase it, it is necessary to increase the amount of data in the training folders, but this is just an example, and as it was done completely from scratch, it is a time-consuming process.
+
+Note 2: In the MyPetClassifier file, the createML model already integrated into Xcode was used, which significantly improves the classification result. In this example, we managed to get 100% correct.
